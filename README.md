@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- main: Java, Python, Spring Boot, MySQL
+- etc: Vue.js, Django, Android, Tensorflow, ..
 <!--
 **jhk828/jhk828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
