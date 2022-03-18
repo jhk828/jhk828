@@ -1,4 +1,8 @@
-<div align=center><h1>🛠 STACKS 🛠</h1></div>
+- 🔭 I’m currently working as ... **backend developer**.
+- 🌱 I’m currently learning ... **Spring Boot, JPA, AWS, JavaScript, Java Functional Programming**.
+- 📫 How to reach me: j828h@naver.com
+
+<div align=center><h3>🛠  TECH STACKS 🛠</h3></div>
 
 <p align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
