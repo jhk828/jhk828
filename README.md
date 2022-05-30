@@ -1,6 +1,5 @@
 - 🔭 I’m currently working as ... **backend developer**.
 - 🌱 I’m currently learning ... **Spring Boot, JPA, AWS, JavaScript, Java Functional Programming**.
-- 📫 How to reach me: j828h@naver.com
 
 <div align=center><h3>🛠  TECH STACKS 🛠</h3></div>
 
