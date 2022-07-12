@@ -1,5 +1,5 @@
 - 🔭 I’m currently working as ... **backend developer**.
-- 🌱 I’m currently learning ... **Spring Boot, JPA, AWS, JavaScript, Java Functional Programming**.
+- 🌱 I’m currently learning ... **Java, JavaScript, Spring Boot, JPA, React, AWS, **.
 
 <div align=center><h3>🛠  TECH STACKS 🛠</h3></div>
 
